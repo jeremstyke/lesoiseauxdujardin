@@ -1,0 +1,30 @@
+name: Synchronisation du site
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '35 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Construire le site depuis jeremstyke.github.io
+        run: |
+          git clone --depth 1 https://github.com/jeremstyke/jeremstyke.github.io /tmp/old
+          S=/tmp/old/.work/lesoiseauxdujardin
+          rm -rf src assets og docs
+          cp -r $S/src $S/assets $S/og .
+          cp $S/sujets.md $S/tops.md $S/AUTOMATION.md .
+          python3 src/build.py
+          rm -rf src/__pycache__
+          printf '__pycache__/\n' > .gitignore
+      - name: Publier
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898499+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || (git commit -m "Synchronisation du site" && git push)
