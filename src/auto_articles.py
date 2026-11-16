@@ -1482,3 +1482,539 @@ g("meilleure-graine-tournesol/",
        ("Avez-vous testé ces graines ?",
         "Non. Cette sélection repose sur les fiches publiées par les fabricants et les revendeurs. Quand une information manque (origine, analyse), nous l'indiquons comme non précisée.")],
   short="Top 7 graines de tournesol", cat="Nourrir")
+
+AUTO_META['petit-oiseau-gris-jardin/'] = ('🪶', 'lilas')
+g("petit-oiseau-gris-jardin/",
+  "Petit oiseau gris au jardin : accenteur, moineau ou sittelle ?",
+  "Petit oiseau gris dans le jardin : comment savoir de qui il s'agit",
+  "Petit oiseau gris et brun qui fouille au pied des haies ? Souvent un accenteur mouchet. Comment l'écarter du moineau femelle, de la sittelle et de la nonnette.",
+  """
+<p>Un petit oiseau gris et brun, discret, qui trottine au pied de la haie ou sous la mangeoire en ramassant des miettes : c'est très souvent un <strong>accenteur mouchet</strong>. La LPO le dit elle-même, on le prend fréquemment pour un moineau à cause de son aspect gris.</p>
+<p>Trois autres oiseaux communs peuvent correspondre à « petit et gris » : la femelle du moineau domestique, la sittelle torchepot et la mésange nonnette. Bonne nouvelle, chacun a un détail qui le trahit en quelques secondes.</p>
+{CTA}
+
+<h2>Le tableau pour trancher en un coup d'œil</h2>
+<p>Les tailles viennent des fiches de la LPO ; Natagora donne des chiffres décalés d'un centimètre environ, ce qui ne change rien sur le terrain. Regardez plutôt le bec et la façon de bouger.</p>
+<table><thead><tr><th>Ce que vous voyez</th><th>Accenteur mouchet</th><th>Moineau domestique femelle</th><th>Sittelle torchepot</th><th>Mésange nonnette</th></tr></thead><tbody>
+<tr><td>Taille (LPO)</td><td>13 à 14,5 cm</td><td>14 à 16 cm</td><td>12 à 14,5 cm</td><td>11,5 cm</td></tr>
+<tr><td>Gris où ?</td><td>Tête et poitrine gris bleuté, dos brun strié</td><td>Plumage terne, brun, sourcil crème derrière l'œil</td><td>Dessus bleu-gris, dessous chamois</td><td>Dessus brun-gris, calotte noire brillante</td></tr>
+<tr><td>Bec</td><td>Fin, pointu</td><td>Gros bec de mangeur de graines</td><td>Très long, en forme de coin</td><td>Petit, noir</td></tr>
+<tr><td>Signe qui ne trompe pas</td><td>Reste près du sol et des buissons, seul ou à deux</td><td>En groupe, bruyant, près des maisons</td><td>Trait noir sur l'œil, descend les troncs tête en bas</td><td>Petite bavette noire sous le bec, joues blanches</td></tr>
+<tr><td>Où ?</td><td>Haies, parcs, jardins, partout sauf sur le littoral méditerranéen</td><td>Près des habitations, en ville comme à la campagne</td><td>Vieux arbres, parcs, grands jardins ; sédentaire</td><td>Bois de chênes et de hêtres ; sédentaire</td></tr>
+</tbody></table>
+
+<h2>L'accenteur mouchet, le plus souvent en cause</h2>
+<p>C'est l'oiseau qu'on voit sans le remarquer. D'après la LPO, l'adulte a la tête et le dessous gris bleuté, le dos brun strié, les joues brunes et les flancs striés de brun. Mâle et femelle se ressemblent ; oiseaux.net précise seulement que le gris du mâle est un peu plus appuyé. Le jeune, lui, est brun et fortement strié, presque sans gris.</p>
+<p>Ce qui le distingue vraiment du moineau, c'est son <strong>bec fin</strong>. Un moineau a un bec court et épais, fait pour casser les graines. L'accenteur a un bec d'insectivore. Oiseaux.net décrit aussi sa façon de se déplacer : de petits sauts nerveux au sol, la queue agitée de petits mouvements.</p>
+<p>Au printemps, le mâle se montre davantage et chante bien en vue au sommet d'un buisson. La LPO décrit une phrase aiguë et sonore d'environ deux secondes, sur un ton assez uniforme.</p>
+<p>L'accenteur niche à moins d'un mètre et demi du sol, dans un buisson dense ou un petit conifère, selon la LPO et oiseaux.net. Il n'utilise pas de nichoir à trou : une haie touffue lui rend bien plus service. L'espèce est intégralement protégée en France, et la LPO signale un recul de ses effectifs d'environ un quart en dix ans.</p>
+
+<h2>Et si c'était une femelle de moineau ?</h2>
+<p>La femelle du moineau domestique est le second suspect, d'autant qu'elle n'a rien de la bavette noire du mâle. La LPO la décrit au plumage beaucoup plus terne, avec un dos brun sans la teinte chocolat du mâle et un <strong>sourcil crème</strong> derrière l'œil. Ce sourcil clair et le gros bec suffisent souvent à faire la différence.</p>
+<p>Le comportement aide aussi. Le moineau vit en groupe, près des maisons, et il se fait entendre avec ses « chip » répétés. Par exemple, cinq oiseaux bruns qui se disputent le dessus de la mangeoire sont des moineaux ; un seul oiseau gris qui picore en silence en dessous, c'est sans doute l'accenteur.</p>
+
+<h2>Un oiseau gris qui descend le tronc la tête en bas ?</h2>
+<p>Alors c'est une <strong>sittelle torchepot</strong>, et il n'y a guère d'hésitation possible. Elle a le dessus bleu-gris, le dessous chamois, un long trait noir qui traverse l'œil et un bec long et pointu. La LPO précise qu'elle descend souvent les troncs et les branches la tête en bas, ce qu'aucune autre espèce du jardin ne fait aussi volontiers.</p>
+<p>Elle vit dans les bois de feuillus avec de vieux arbres, mais aussi dans les parcs et les grands jardins. En hiver, elle vient parfois à la mangeoire et stocke des graines sous l'écorce. Un détail amusant relevé par la LPO : quand elle s'installe dans une cavité ou un nichoir, elle maçonne l'entrée avec de la boue pour la réduire à sa taille.</p>
+
+<h2>Une petite mésange grise à calotte noire</h2>
+<p>La <strong>mésange nonnette</strong> est la plus petite des quatre, avec 11,5 cm pour 9 à 12 g selon la LPO. Calotte noire brillante, joues blanches, petite bavette noire, dessus brun-gris et dessous clair : pas de jaune, pas de bleu. On la croise surtout près des bois de chênes et de hêtres, et elle passe parfois à la mangeoire en hiver.</p>
+<p>Son seul vrai sosie est la mésange boréale. Oiseaux.net donne plusieurs critères, à combiner : calotte lustrée chez la nonnette et mate chez la boréale, bavette petite et nette chez la nonnette, plus floue et élargie chez la boréale, aile uniforme chez la nonnette alors que la boréale montre un panneau clair. Si votre petite mésange a les joues blanches et le ventre jaune, vous regardez plutôt une <a href="{R}mesange-charbonniere/">mésange charbonnière</a>.</p>
+
+<h2>Comment confirmer sans se tromper ?</h2>
+<p>Le bec et la façon de bouger résistent mieux à la mauvaise lumière que les couleurs. Ensuite, écoutez : le « tuit » répété de la sittelle et le chant aigu de l'accenteur sont faciles à enregistrer avec une application de reconnaissance des chants comme Merlin Bird ID ou BirdNET. Prenez leur réponse comme une piste, puis vérifiez avec un guide.</p>
+<p>Pour voir un sourcil crème ou une bavette de quelques millimètres, des jumelles changent tout ; notre comparatif des <a href="{R}meilleures-jumelles-oiseaux/">meilleures jumelles pour observer les oiseaux</a> explique pourquoi un 8x42 suffit. Pour comparer les espèces voisines, voyez aussi notre sélection des <a href="{R}meilleur-guide-oiseaux/">meilleurs guides d'identification</a>.</p>
+<p><strong>Jumelles 8x42</strong> : pour voir le bec et le sourcil sans approcher. <a href="{AMZ:jumelles 8x42 ornithologie}" """ + A + """>Voir sur Amazon</a></p>
+<p><strong>Guide d'identification des oiseaux d'Europe</strong> : pour comparer accenteur, moineau et mésanges. <a href="{AMZ:guide ornitho oiseaux de france et d'europe}" """ + A + """>Voir sur Amazon</a></p>
+<p>Et si vous voulez savoir qui passe pendant votre absence, une mangeoire équipée d'une caméra fait le travail à votre place : nous avons comparé les modèles dans notre sélection des <a href="{R}meilleure-mangeoire-connectee/">meilleures mangeoires connectées</a>.</p>
+<p><strong>Mangeoire connectée avec caméra</strong> : photos et vidéos des visiteurs sur votre téléphone. <a href="{AMZ:mangeoire connectee camera oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>Comment aider ces petits oiseaux gris ?</h2>
+<p>Ils n'ont pas les mêmes besoins. L'accenteur se nourrit au sol : la LPO PACA rappelle que les petites graines comme le millet sont indispensables aux passereaux à bec fin, dont l'accenteur et le rouge-gorge. Semez-en un peu sur un plateau bas, près d'un buisson où il peut se replier. Le moineau, lui, mange volontiers des graines à la mangeoire, et la sittelle comme la nonnette apprécient le tournesol en hiver. Voyez notre guide pour <a href="{R}nourrir-les-oiseaux-du-jardin/">bien nourrir les oiseaux du jardin</a>.</p>
+<p><strong>Plateau de nourrissage au sol</strong> : pour l'accenteur et les autres oiseaux qui mangent par terre. <a href="{AMZ:mangeoire plateau sol oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+<p>Côté nid, l'accenteur veut une haie dense, pas un nichoir. La sittelle et la nonnette nichent dans des cavités, et la sittelle accepte les nichoirs. Le moineau aussi : la LPO conseille pour lui un nichoir fixé sous une avancée de toit, à 2,50 ou 3 m. Notre article sur <a href="{R}installer-un-nichoir/">l'installation d'un nichoir</a> explique où et quand le poser.</p>
+<p><strong>Nichoir pour moineaux</strong> : à fixer sous le toit, idéal pour une espèce qui niche en colonie. <a href="{AMZ:nichoir moineau domestique}" """ + A + """>Voir sur Amazon</a></p>
+<p><strong>Notre conseil</strong> : avant d'acheter quoi que ce soit, laissez un coin de haie épais et non taillé, avec un tapis de feuilles mortes au pied. C'est le garde-manger et le refuge de l'accenteur, et vous l'y verrez bien plus souvent qu'à la mangeoire.</p>
+""",
+  faq=[("Quel est ce petit oiseau gris et brun qui mange par terre ?",
+        "Le plus souvent un accenteur mouchet : tête et poitrine gris bleuté, dos brun strié, bec fin. Il reste près des buissons, seul ou à deux. S'il a un gros bec, un sourcil crème et vit en groupe, c'est plutôt une femelle de moineau domestique."),
+       ("Comment différencier un accenteur mouchet d'un moineau ?",
+        "Regardez le bec : fin et pointu chez l'accenteur, court et épais chez le moineau. L'accenteur a aussi la tête et la poitrine gris bleuté, alors que la femelle de moineau est brune avec un sourcil crème. Enfin, le moineau vit en groupe bruyant, l'accenteur est discret."),
+       ("Quel petit oiseau gris descend les arbres la tête en bas ?",
+        "La sittelle torchepot. D'après la LPO, elle descend souvent les troncs et les branches la tête en bas. Elle a le dessus bleu-gris, le dessous chamois, un trait noir sur l'œil et un long bec pointu.")],
+  short="Petit oiseau gris", cat="Observer")
+
+AUTO_META['rouge-gorge/'] = ('🐦', 'rouge')
+g("rouge-gorge/",
+  "Rouge-gorge : le reconnaître, le nourrir et lui offrir un nichoir",
+  "Le rouge-gorge au jardin : le reconnaître, le nourrir, l'aider à nicher",
+  "Mâle ou femelle, jeune sans plastron, territoire, chant d'hiver, nourriture au sol et nichoir semi-ouvert : tout pour accueillir le rouge-gorge chez vous.",
+  """
+<p>Le rouge-gorge, c'est ce petit oiseau rond au plastron orangé qui vient vous regarder bêcher le potager. Il mesure 13 à 14 cm pour environ 16 g d'après la LPO, il se nourrit surtout au sol, et il ne niche pas dans un nichoir à trou rond mais dans un nichoir <strong>semi-ouvert</strong>, posé bas.</p>
+<p>Retenez surtout ceci : servez-le au sol ou sur un plateau bas, près d'un buisson, avec des petites graines.</p>
+{CTA}
+
+<h2>Mâle ou femelle : peut-on les distinguer ?</h2>
+<p>Non, et c'est une question qu'on se pose souvent. La LPO est catégorique : chez l'adulte, le mâle et la femelle ont exactement le même plumage, et il ne change pas entre l'été et l'hiver. Dessus brun olive, plastron orangé bordé d'un liseré gris bleuté, ventre blanchâtre, bec et pattes bruns.</p>
+<p>Le vrai piège, c'est le <strong>jeune</strong>. En début d'été, vous verrez peut-être un oiseau brun tout moucheté de roux, sans la moindre trace d'orange. C'est un jeune rouge-gorge. La LPO note que les commissures de son bec sont jaunes et qu'on peut le confondre avec un jeune rossignol ou un jeune rougequeue à front blanc. Oiseaux.net ajoute qu'une petite barre rousse sur l'aile reste visible jusqu'à sa deuxième année.</p>
+<table><thead><tr><th>Critère</th><th>Adulte (mâle et femelle)</th><th>Jeune</th></tr></thead><tbody>
+<tr><td>Poitrine</td><td>Plastron orangé bordé de gris bleuté</td><td>Pas d'orange, roussâtre avec des liserés bruns</td></tr>
+<tr><td>Dessus</td><td>Brun olive uni</td><td>Tacheté de roux et de brun-noir</td></tr>
+<tr><td>Bec</td><td>Brun</td><td>Commissures jaunes les premières semaines</td></tr>
+<tr><td>Quand le voir</td><td>Toute l'année</td><td>Surtout au printemps et en été</td></tr>
+</tbody></table>
+
+<h2>Pourquoi le rouge-gorge est-il si familier, et si bagarreur ?</h2>
+<p>Parce qu'il défend son territoire presque toute l'année. La LPO donne une surface de 1 600 à 15 000 m², délimitée par le chant. Seuls les hivers très rudes calment cet instinct. Autrement dit, il tolère mal ses congénères sur son terrain, mangeoire comprise.</p>
+<p>Un détail touchant : quand le couple se forme en hiver, la femelle prend des postures de soumission et cache son plastron pour ne pas être chassée par le mâle, d'après la LPO.</p>
+<p>Et ce rouge-gorge qui revient « chaque année » ? La LPO tempère : les oiseaux observés d'un hiver sur l'autre sont généralement des individus différents. L'espèce est un migrateur partiel. Les oiseaux d'Europe centrale et du Nord descendent vers l'ouest ou le sud, les autres restent plutôt sur place, si bien qu'on en voit partout en France toute l'année.</p>
+
+<h2>Son chant, même en hiver</h2>
+<p>Le rouge-gorge chante depuis un perchoir bien visible, un chant riche et mélodieux selon la LPO. Contrairement à beaucoup d'oiseaux qui se taisent après l'été, il reprend son chant dès l'automne : oiseaux.net explique que ce chant d'hiver sert à défendre un territoire de nourriture. Si vous entendez un oiseau chanter dans le jardin un matin de novembre, il y a de bonnes chances que ce soit lui.</p>
+
+<h2>Que mange le rouge-gorge, et que lui donner ?</h2>
+<p>C'est avant tout un insectivore qui chasse au sol, dans les feuilles mortes ou sur la terre nue. La LPO cite les insectes et leurs larves, les araignées, les cloportes, les vers de terre et les petits escargots. Il suit même parfois les taupes ou les sangliers pour attraper les vers qu'ils déterrent.</p>
+<p>En hiver, il se rapproche des maisons, fouille le compost et passe aux mangeoires. Il complète alors son menu avec des petits fruits : lierre, sureau, aubépine, troène, cornouiller, viorne, fusain.</p>
+<p>À la mangeoire, gardez en tête trois points :</p>
+<ul>
+<li><strong>Au sol ou presque.</strong> Il se perche mal sur un silo. Un plateau bas, près d'un buisson pour qu'il puisse s'y réfugier, lui convient bien mieux.</li>
+<li><strong>Des petites graines.</strong> La LPO PACA rappelle que le millet et les autres petites graines sont indispensables aux passereaux à bec fin comme lui. Oiseaux.net précise qu'il en mange en petite quantité.</li>
+<li><strong>Un peu de graisse.</strong> Oiseaux.net note qu'il profite d'une boule de graisse, toujours sans filet. Émiettée sur le plateau, elle est plus facile à prendre pour lui.</li>
+</ul>
+<p>Et les vers de farine ? Ils ne figurent pas dans les fiches espèces que nous avons consultées. Certains mélanges de graisse aux insectes les incluent et citent le rouge-gorge parmi les oiseaux visés : c'est un complément, pas une base. Quant au pain, les sources ne disent pas la même chose : oiseaux.net mentionne que des miettes l'attirent sur un balcon, mais la LPO nationale déconseille le pain pour tous les oiseaux. Suivez l'avis le plus prudent et n'en donnez pas. Tout est détaillé dans notre guide pour <a href="{R}nourrir-les-oiseaux-du-jardin/">bien nourrir les oiseaux du jardin</a>.</p>
+<p><strong>Mélange de petites graines pour oiseaux du sol</strong> : millet et graines fines pour les becs fins. <a href="{AMZ:melange graines oiseaux sol millet rouge-gorge}" """ + A + """>Voir sur Amazon</a></p>
+<p><strong>Plateau de nourrissage bas</strong> : pour le servir à sa hauteur, à l'abri de la boue. <a href="{AMZ:mangeoire plateau sol oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+<p><strong>Boules de graisse aux insectes sans filet</strong> : à émietter sur le plateau les jours de gel. <a href="{AMZ:boules de graisse insectes sans filet oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+<p>Pour choisir les boules, voyez notre comparatif des <a href="{R}meilleure-boule-de-graisse/">meilleures boules de graisse sans filet</a>.</p>
+
+<h2>Où niche-t-il, et quel nichoir lui convient ?</h2>
+<p>Dans la nature, la femelle construit en avril un nid volumineux au ras du sol : creux de talus, souche, touffe d'herbe, tas de branches mortes, lierre. La LPO cite aussi des choix plus inattendus, comme un trou de mur ou un vieux pot jeté dans les broussailles. Elle pond 5 à 6 œufs selon la LPO, 5 à 7 selon oiseaux.net, et peut faire deux couvées par an, parfois trois.</p>
+<p>Il ne rentre pas dans un nichoir à trou rond comme celui des mésanges. Il lui faut un <strong>nichoir semi-ouvert</strong>, dont la façade est à moitié ouverte. Les recommandations varient un peu :</p>
+<table><thead><tr><th>Point</th><th>Notice de la Ligue royale belge pour la protection des oiseaux</th><th>Fiche du nichoir rouge-gorge de la boutique LPO</th></tr></thead><tbody>
+<tr><td>Hauteur</td><td>Environ 1,50 m</td><td>1,50 à 3 m</td></tr>
+<tr><td>Orientation</td><td>Est ou sud-est, dos aux vents dominants</td><td>Sud ou sud-est</td></tr>
+<tr><td>Pose</td><td>Automne ou fin d'hiver</td><td>Possible dès le début de l'hiver</td></tr>
+<tr><td>Nettoyage</td><td>Septembre ou octobre</td><td>Septembre ou octobre</td></tr>
+</tbody></table>
+<p>Dans les deux cas, le nichoir est légèrement penché vers l'avant pour que la pluie n'entre pas. La notice belge précise que ce modèle sert aussi au troglodyte, au rougequeue noir et à la bergeronnette grise. <strong>Notre conseil</strong> : posez-le vers 1,50 m, caché dans du lierre ou une haie dense, plutôt qu'en plein milieu d'un mur nu. Le rouge-gorge cherche avant tout un endroit couvert et tranquille. Notre guide pour <a href="{R}installer-un-nichoir/">installer un nichoir</a> détaille la fixation sans abîmer l'arbre.</p>
+<p><strong>Nichoir semi-ouvert pour rouge-gorge</strong> : en bois ou en béton de bois, plus durable. <a href="{AMZ:nichoir semi ouvert rouge-gorge}" """ + A + """>Voir sur Amazon</a></p>
+<p>Envie de suivre la couvée sans jamais ouvrir le nichoir ? Il existe des nichoirs équipés d'une caméra, à installer avant le printemps. Notre sélection des <a href="{R}meilleur-nichoir-camera/">meilleurs nichoirs avec caméra</a> les compare ; vérifiez qu'un modèle propose une façade semi-ouverte avant de le prévoir pour un rouge-gorge.</p>
+<p><strong>Nichoir avec caméra</strong> : <a href="{AMZ:nichoir camera wifi oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>Avec quels oiseaux peut-on le confondre ?</h2>
+<p>L'adulte, presque jamais : son plastron orangé bordé de gris est unique au jardin. Le jeune, en revanche, ressemble à un jeune rossignol ou à un jeune rougequeue, comme le signale la LPO. Et quand il fouille au pied des haies en hiver, on le voit souvent à côté d'un autre petit oiseau discret, gris et brun : l'accenteur mouchet. Notre page sur le <a href="{R}petit-oiseau-gris-jardin/">petit oiseau gris du jardin</a> vous aide à le reconnaître. Pour admirer le liseré gris du plastron sans le faire fuir, une paire de <a href="{R}meilleures-jumelles-oiseaux/">jumelles légères</a> suffit.</p>
+<p>Enfin, le rouge-gorge est intégralement protégé en France par l'arrêté ministériel du 29 octobre 2009, rappelle la LPO : il est interdit de le capturer, de le détenir ou de toucher à son nid.</p>
+""",
+  faq=[("Comment savoir si un rouge-gorge est mâle ou femelle ?",
+        "On ne peut pas à l'œil nu : d'après la LPO, mâle et femelle adultes ont exactement le même plumage, été comme hiver. Seul le jeune se distingue, avec un plumage brun moucheté de roux et sans plastron orangé."),
+       ("Que donner à manger à un rouge-gorge en hiver ?",
+        "Des petites graines comme le millet, posées au sol ou sur un plateau bas près d'un buisson, et un peu de graisse émiettée, sans filet. Des arbustes à baies (lierre, sureau, aubépine) l'aident aussi. Évitez le pain, déconseillé par la LPO."),
+       ("Quel nichoir pour un rouge-gorge ?",
+        "Un nichoir semi-ouvert, posé bas : environ 1,50 m selon la notice de la Ligue royale belge pour la protection des oiseaux, 1,50 à 3 m selon la boutique LPO, orienté à l'est ou au sud-est et caché dans la végétation.")],
+  short="Rouge-gorge", cat="Observer")
+
+AUTO_META['meilleure-boule-de-graisse/'] = ('🏆', 'ciel')
+g("meilleure-boule-de-graisse/",
+  "Boules de graisse sans filet 2026 : top 10 pour les oiseaux",
+  "Les meilleures boules de graisse sans filet pour les oiseaux du jardin : 10 produits comparés",
+  "Suif ou graisse végétale, insectes, graines, seau ou carton : 10 boules de graisse sans filet comparées d'après les fiches des fabricants, et laquelle choisir.",
+  """
+<p>Pour la plupart des jardins, prenez un carton ou un seau de <strong>boules sans filet aux insectes</strong>, comme celles de la LPO ou de Klasebo, et un support métallique rigide. Si vous tenez à une graisse 100 % végétale, sachez qu'elle est rare : dans notre sélection, une seule boule l'annonce clairement.</p>
+<p>C'est la surprise de ce comparatif. La LPO Nord recommande une graisse végétale sans huile de palme, mais en lisant les fiches, on découvre que presque toutes les boules vendues sans filet sont à base de <strong>suif de bœuf</strong>. Ce n'est pas un défaut en soi : Natagora accepte les graisses animales tant qu'elles ne sont ni salées ni fumées. Mais autant savoir ce que vous achetez.</p>
+{CTA}
+<div class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</div>
+
+<h2>Le tableau récapitulatif</h2>
+<table><thead><tr><th>Produit</th><th>Quantité</th><th>Graisse annoncée</th><th>Plus</th></tr></thead><tbody>
+<tr><td>LPO 50 boules de graisse aux insectes</td><td>50 x 85 g</td><td>Suif selon la fiche, « sans huile de palme »</td><td>Insectes, gammares</td></tr>
+<tr><td>Klasebo Premium aux insectes</td><td>200 x 90 g environ</td><td>Suif de bœuf et huile de colza</td><td>Vers de farine, raisins secs</td></tr>
+<tr><td>Lyra Pet boules pour mésanges sans filet</td><td>100 x 90 g</td><td>Suif de bœuf</td><td>Formats jusqu'à 200 boules</td></tr>
+<tr><td>CJ Wildlife boule géante aux graines (Vivara)</td><td>1 boule de 450 à 480 g</td><td>100 % végétale</td><td>Niger, tournesol, cacahuètes</td></tr>
+<tr><td>CJ Wildlife seau de 30 boules suprême (Vivara)</td><td>30 x 80 g</td><td>Suif de bœuf</td><td>Cacahuètes, sans calcaire ajouté</td></tr>
+<tr><td>CJ Wildlife 50 boules premium avec insectes (Vivara)</td><td>50 x 95 g environ</td><td>Suif de bœuf</td><td>Vers de farine, gammares</td></tr>
+<tr><td>Versele-Laga Menu Nature sans filet</td><td>50 ou 150 boules</td><td>Graisse de bœuf</td><td>Contrôle de l'ambroisie</td></tr>
+<tr><td>Vitakraft Vita Garden seau sans filets</td><td>25 boules, 2,125 kg</td><td>Non précisé</td><td>Seau refermable</td></tr>
+<tr><td>Klasebo boules sans filet classiques</td><td>100 x 90 g environ</td><td>Suif de bœuf</td><td>Contrôle de l'ambroisie</td></tr>
+<tr><td>Esschert Design boules sans filet x20</td><td>20 boules, 2,07 kg</td><td>Suif de bœuf</td><td>Fabriqué dans l'UE</td></tr>
+</tbody></table>
+<p>Les compositions changent parfois d'une fabrication à l'autre, et les formats aussi : relisez l'étiquette au moment de commander.</p>
+
+<h2>1. LPO 50 boules de graisse aux insectes : notre premier choix</h2>
+<p><strong>Pour qui ?</strong> Vous voulez des boules prêtes à l'emploi, sans filet, d'une association de protection des oiseaux.</p>
+<p>D'après la boutique LPO, ce carton contient 50 boules de 85 g, soit 4,25 kg, livrées sans filet « pour éviter de piéger les oiseaux ». La composition est détaillée : farine de blé, suif, tournesol noir, farine de maïs, farine d'arachide, carbonate de calcium, 2 % de vers de farine séchés et 2 % de gammares. Le produit est fabriqué aux Pays-Bas et conçu avec des partenaires de BirdLife. Un lot de 10 existe pour essayer.</p>
+<ul>
+<li><strong>Points forts</strong> : sans filet, mention « sans huile de palme », composition complète, carton plutôt que plastique, conseil de période (mi-novembre à fin mars).</li>
+<li><strong>Limites</strong> : la fiche du produit liste du suif, alors que la page de catégorie de la boutique parle de graisse végétale. Si le végétal compte pour vous, posez la question à la LPO avant d'acheter. Vendu surtout sur la boutique LPO.</li>
+</ul>
+<p>Pourquoi en premier ? Parce que c'est la fiche la plus transparente de la sélection, et qu'acheter à la LPO soutient aussi son action.</p>
+<p><a href="{AMZ:LPO boules de graisse insectes sans filet}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>2. Klasebo Premium aux insectes : le grand format pour tout l'hiver</h2>
+<p><strong>Pour qui ?</strong> Plusieurs supports, beaucoup de visiteurs, ou un hiver long et froid.</p>
+<p>Zooplus annonce 200 boules d'environ 90 g, soit au moins 18 kg. La graisse combine suif de bœuf et huile de colza, avec flocons de blé, tournesol, cacahuètes, raisins secs et vers de farine. Le fabricant met en avant un contrôle contre l'ambroisie, une plante très allergisante qui peut pousser sous les mangeoires. Il cite la mésange bleue, le rouge-gorge et la sittelle. Une version de 100 boules existe sur Amazon.fr.</p>
+<ul>
+<li><strong>Points forts</strong> : recette variée, huile de colza (celle que la LPO préfère pour la partie végétale), contrôle de l'ambroisie, présence sur Amazon.fr.</li>
+<li><strong>Limites</strong> : 18 kg, c'est énorme pour un seul support. Une boule qui traîne finit par rancir : ne prenez ce format que si vous en consommez beaucoup, ou partagez-le avec des voisins.</li>
+</ul>
+<p><a href="{AMZ:Klasebo boules de graisse insectes sans filet}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>3. Lyra Pet boules de graisse pour mésanges sans filet : la recette simple</h2>
+<p><strong>Pour qui ?</strong> Vous voulez une boule basique, en quantité, facile à trouver sur Amazon.fr.</p>
+<p>Selon zooplus, ces boules de 90 g se vendent par 100 (ou 200, ou 100 avec un seau de 30 litres). Composition : maïs, blé, sorgho, suif de bœuf, carbonate de calcium et tournesol, sans additif ni exhausteur de goût. Le revendeur prévient qu'elles peuvent se casser par forte chaleur.</p>
+<ul>
+<li><strong>Points forts</strong> : composition courte, plusieurs formats, version avec seau pour bien stocker.</li>
+<li><strong>Limites</strong> : beaucoup de céréales et peu de tournesol en tête de liste, pas d'insectes. Le revendeur les dit utilisables toute l'année, mais Natagora et la Ligue belge réservent la graisse aux périodes de gel : ne vous fiez pas à cette mention.</li>
+</ul>
+<p><a href="{AMZ:Lyra Pet boules de graisse sans filet 90 g}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>4. CJ Wildlife boule géante aux graines sans cordelette : la seule 100 % végétale</h2>
+<p><strong>Pour qui ?</strong> Vous voulez éviter la graisse animale, et vous avez un support assez grand.</p>
+<p>Vivara présente cette boule XXL, environ quatre fois plus lourde qu'une boule standard, comme composée d'ingrédients 100 % d'origine végétale. Elle contient du niger, du tournesol noir, des cacahuètes concassées et du blé, et elle est vendue sans cordelette. Le site cite les mésanges, la sittelle, le grimpereau, le moineau et le pic épeiche.</p>
+<ul>
+<li><strong>Points forts</strong> : graisse végétale, niger apprécié des petits fringilles, pas de filet ni de ficelle.</li>
+<li><strong>Limites</strong> : la fiche ne dit pas si l'huile végétale contient de l'huile de palme. Le poids varie selon l'endroit de la page (450 ou 480 g). Une boule unique, ça part vite si les étourneaux s'y mettent. Vendue chez Vivara, pas repérée sur Amazon.fr.</li>
+</ul>
+<p><a href="{AMZ:boule de graisse vegetale geante oiseaux sans filet}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>5. CJ Wildlife seau de 30 boules suprême : riche en cacahuètes</h2>
+<p><strong>Pour qui ?</strong> Un jardin fréquenté par les mésanges et le pic épeiche, et peu de place pour stocker.</p>
+<p>D'après Vivara, le seau contient 30 boules de 80 g (2,4 kg) au suif de bœuf, avec cacahuètes, tournesol noir et blé, sans calcaire ajouté. L'analyse affiche 39,5 % de matières grasses. Le fabricant indique que la boule reste molle par grand froid, donc facile à picorer.</p>
+<ul>
+<li><strong>Points forts</strong> : recette énergétique, seau compact et refermable, longue liste d'espèces citées (mésanges, sittelle, pic épeiche, moineau).</li>
+<li><strong>Limites</strong> : graisse animale, pas de version sans suif. Disponible surtout chez Vivara.</li>
+</ul>
+<p><a href="{AMZ:CJ Wildlife boules de graisse sans filet seau}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>6. CJ Wildlife 50 boules premium avec insectes : aussi pour le rouge-gorge</h2>
+<p><strong>Pour qui ?</strong> Vous voulez attirer aussi les oiseaux plus insectivores, comme le rouge-gorge.</p>
+<p>Vivara annonce 50 boules d'environ 95 g (4,75 kg) dans un carton recyclable. Recette : blé, suif, tournesol noir, maïs, carbonate de calcium, arachide, 1 % de vers de farine et 1 % de gammares. Le site suggère de les émietter sur un plateau ou au sol, ce qui convient bien aux oiseaux qui mangent par terre.</p>
+<ul>
+<li><strong>Points forts</strong> : carton plutôt que plastique, rouge-gorge cité, conseil d'usage au sol.</li>
+<li><strong>Limites</strong> : les insectes ne pèsent que 2 % de la recette. Suif de bœuf.</li>
+</ul>
+<p><a href="{AMZ:boules de graisse insectes sans filet carton 50}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>7. Versele-Laga Menu Nature boules de graisse sans filet : la marque de jardinerie</h2>
+<p><strong>Pour qui ?</strong> Vous achetez déjà vos graines chez Versele-Laga et voulez rester dans la même gamme.</p>
+<p>Zoomalia décrit des boules à la graisse de bœuf pure, en lots de 50 (avec une mangeoire offerte) ou de 150. L'analyse affiche 24 % de matières grasses, et les graines sont contrôlées contre l'ambroisie.</p>
+<ul>
+<li><strong>Points forts</strong> : grande marque spécialisée, contrôle de l'ambroisie, support offert avec le lot de 50.</li>
+<li><strong>Limites</strong> : composition vague (« sous-produits végétaux, huiles et graisses, graines, céréales »), poids unitaire non précisé. Attention, sur Amazon.fr, la référence la plus visible de la marque est un seau de boules <strong>avec</strong> filet : vérifiez bien la mention « sans filet ».</li>
+</ul>
+<p><a href="{AMZ:Versele-Laga Menu Nature boules de graisse sans filet}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>8. Vitakraft Vita Garden seau de boules sans filets : le petit seau facile à trouver</h2>
+<p><strong>Pour qui ?</strong> Un balcon ou un petit jardin, une seule mangeoire.</p>
+<p>D'après Zoomalia, ce seau refermable contient 25 boules pour 2,125 kg, sans conservateur ni colorant. Il est vendu sur Amazon.fr sous le même nom.</p>
+<ul>
+<li><strong>Points forts</strong> : petit format qui ne traîne pas, seau pratique, large distribution.</li>
+<li><strong>Limites</strong> : la fiche consultée ne précise ni le type de graisse ni la composition. C'est la moins transparente de la sélection, et c'est pour ça qu'elle n'est pas plus haut.</li>
+</ul>
+<p><a href="{AMZ:Vitakraft Vita Garden seau boules de graisse sans filets}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>9. Klasebo boules sans filet classiques : la version sans insectes</h2>
+<p><strong>Pour qui ?</strong> Vous aimez la marque mais voulez une recette plus simple.</p>
+<p>Zooplus annonce 100 boules d'environ 90 g (9 kg) au suif de bœuf, avec blé, tournesol, avoine, maïs, sorgho et carbonate de calcium. Contrôle contre l'ambroisie, là encore.</p>
+<ul>
+<li><strong>Points forts</strong> : bonne quantité, composition lisible, ambroisie contrôlée.</li>
+<li><strong>Limites</strong> : indiquée en rupture temporaire lors de notre consultation, et nous n'avons pas pu confirmer cette version précise sur Amazon.fr.</li>
+</ul>
+<p><a href="{AMZ:Klasebo boules de graisse sans filet oiseaux sauvages}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>10. Esschert Design boules de graisse sans filet x20 : le seau d'appoint</h2>
+<p><strong>Pour qui ?</strong> Vous voulez juste de quoi tenir pendant une vague de froid.</p>
+<p>Selon la fiche vendue sur Greenweez, le seau contient 20 boules pour 2,07 kg, au suif de bœuf, avec blé, maïs, sorgho, tournesol strié et carbonate de calcium. Fabriqué dans l'Union européenne. Une version de 6 boules existe chez Nature &amp; Découvertes.</p>
+<ul>
+<li><strong>Points forts</strong> : petit seau, origine UE indiquée, pas de filet plastique.</li>
+<li><strong>Limites</strong> : tournesol strié plutôt que noir, moins riche selon la LPO. Pas repéré sur Amazon.fr lors de nos recherches.</li>
+</ul>
+<p><a href="{AMZ:Esschert Design boules de graisse sans filet}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>Et pour les accrocher ?</h2>
+<p>Une boule sans filet ne s'accroche pas toute seule. Il faut un support en métal rigide, qui ne se resserre pas autour d'une patte. Trois modèles dont nous avons lu la fiche :</p>
+<ul>
+<li><strong>CJ Wildlife Adélaïde</strong> (Vivara) : métal thermolaqué, 12 x 12 x 25 cm, garanti 5 ans, prévu pour les boules sans filet.</li>
+<li><strong>TIAKI anneau métallique</strong> (zooplus) : 6 à 8 boules, couvercle amovible contre la pluie, chaînette avec crochet.</li>
+<li><strong>LPO Gardenia boules de graisse</strong> : acier galvanisé, trappe de remplissage par le haut, pensé pour les petits oiseaux.</li>
+</ul>
+<p><strong>Support pour boules de graisse en métal</strong> : <a href="{AMZ:support boules de graisse metal anneau oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+<p>Vous préférez une seule mangeoire pour tout ? Certains silos acceptent graines et boule de graisse ensemble ; notre sélection des <a href="{R}meilleure-mangeoire-oiseaux/">meilleures mangeoires pour oiseaux</a> vous aidera à choisir.</p>
+
+<h2>Comment choisir ses boules de graisse ?</h2>
+<p><strong>Sans filet, toujours.</strong> La LPO Nord, Natagora et la Ligue royale belge pour la protection des oiseaux sont unanimes : un oiseau peut s'y prendre la patte ou le bec. Si vous avez encore des boules en filet, coupez-le avant de les poser. Tout est expliqué dans notre article sur <a href="{R}boule-de-graisse-oiseaux/">les boules de graisse</a>, avec la recette maison de la LPO.</p>
+<p><strong>Lisez la graisse.</strong> Végétale sans palme, c'est l'idéal pour la LPO Nord. Le suif reste acceptable pour Natagora s'il n'est ni salé ni fumé. Une fiche qui ne dit rien sur la graisse, c'est un achat à l'aveugle.</p>
+<p><strong>Regardez le premier ingrédient.</strong> Quand le blé ou le maïs arrive en tête, la boule est surtout une boule de céréales liées par la graisse. Le tournesol noir et les cacahuètes apportent plus d'énergie.</p>
+<p><strong>Prenez la bonne quantité.</strong> Les associations belges réservent la graisse aux vraies périodes de gel, et la LPO limite l'aide alimentaire à l'hiver, de novembre à mars environ. Par exemple, avec un seul support et des hivers doux, un seau de 20 à 30 boules suffit largement. Les cartons de 100 ou 200 boules ont du sens pour plusieurs points de nourrissage, ou dans les régions où il gèle longtemps.</p>
+<p><strong>Notre conseil</strong> : un carton LPO ou Klasebo aux insectes pour l'hiver, un support métallique avec toit, et quelques boules émiettées sur un plateau bas les jours de gel pour les oiseaux qui mangent au sol.</p>
+
+<h2>Quels oiseaux viendront ?</h2>
+<p>Les mésanges en premier : la <a href="{R}mesange-charbonniere/">mésange charbonnière</a> est souvent la plus assidue au support. La sittelle et le pic épeiche viennent aussi, et les recettes aux insectes sont citées pour le <a href="{R}rouge-gorge/">rouge-gorge</a>, à condition de lui émietter la boule au sol. Pour le reste du menu, graines et eau comprises, suivez notre guide pour <a href="{R}nourrir-les-oiseaux-du-jardin/">bien nourrir les oiseaux du jardin</a>.</p>
+""",
+  faq=[("Les boules de graisse sans filet sont-elles toutes végétales ?",
+        "Non, au contraire. Sur les dix produits de notre sélection, la plupart sont au suif de bœuf. Seule la boule géante CJ Wildlife vendue par Vivara annonce une graisse 100 % végétale. La LPO Nord recommande le végétal sans huile de palme, Natagora accepte la graisse animale non salée et non fumée."),
+       ("Combien de boules de graisse faut-il pour l'hiver ?",
+        "Cela dépend du nombre de supports et de la durée du gel. Les associations belges réservent la graisse aux périodes de gel, la LPO situe l'aide alimentaire de novembre à mars environ. Un seau de 20 à 30 boules suffit souvent pour un seul support ; les cartons de 100 ou plus servent aux grands jardins."),
+       ("Avez-vous testé ces boules de graisse ?",
+        "Non. Cette sélection repose sur les fiches publiées par les fabricants et les revendeurs. Quand une information manque, comme le type de graisse, nous l'indiquons comme non précisée.")],
+  short="Top 10 boules de graisse", cat="Nourrir")
+
+AUTO_META['oiseau-ventre-rouge/'] = ('🍒', 'rouge')
+g("oiseau-ventre-rouge/",
+  "Oiseau au ventre rouge : rouge-gorge, bouvreuil ou pinson ?",
+  "Oiseau à la poitrine rouge au jardin : rouge-gorge, bouvreuil ou pinson ?",
+  "Poitrine orange, rose vif ou roux ? Au jardin, l'oiseau au ventre rouge est souvent un rouge-gorge, sinon un bouvreuil ou un pinson mâle. Comment trancher.",
+  """
+<p>Un petit oiseau rond avec une poitrine orangée, qui se tient au sol ou sur un piquet près de vous : c'est le <strong>rouge-gorge</strong>, de loin le plus fréquent. Si le rouge tire franchement sur le rose et que l'oiseau porte une calotte noire, c'est un <strong>bouvreuil pivoine mâle</strong>. Et si la poitrine est d'un roux couleur rouille, avec la tête gris-bleu, vous avez un <strong>pinson des arbres mâle</strong>.</p>
+<p>Un quatrième oiseau sème souvent le doute alors qu'il n'a pas le ventre rouge du tout : le rougequeue noir, dont le roux est sur la queue. Le tableau ci-dessous vous aide à faire le tri.</p>
+{CTA}
+
+<h2>Où est le rouge exactement ?</h2>
+<p>C'est la première question à se poser, avant même la taille. Les quatre espèces portent leur couleur à des endroits différents, d'après les fiches de la LPO et d'oiseaux.net.</p>
+<table><thead><tr><th>Ce que vous voyez</th><th>Rouge-gorge</th><th>Bouvreuil pivoine mâle</th><th>Pinson des arbres mâle</th><th>Rougequeue noir mâle</th></tr></thead><tbody>
+<tr><td>Couleur</td><td>Orangé</td><td>Rouge rosé</td><td>Roux-rouille</td><td>Roux</td></tr>
+<tr><td>Où ?</td><td>Plastron (gorge et poitrine), ventre blanchâtre</td><td>Joues, gorge, poitrine, flancs</td><td>Poitrine et ventre</td><td>Queue seulement</td></tr>
+<tr><td>Tête</td><td>Brun olive, liseré gris bleuté autour du plastron</td><td>Calotte noire</td><td>Dessus et nuque gris-bleu</td><td>Noire, comme le reste du corps au printemps</td></tr>
+<tr><td>Taille (LPO)</td><td>13 à 14 cm</td><td>15,5 à 17,5 cm</td><td>14 à 16 cm</td><td>14 cm</td></tr>
+<tr><td>Au jardin</td><td>Toute l'année, souvent au sol</td><td>Discret, dans les arbres et les haies</td><td>Au sol, sous la mangeoire</td><td>Perché en hauteur, près des bâtiments</td></tr>
+</tbody></table>
+<p>Pour le bouvreuil, les sources ne donnent pas la même taille : 15,5 à 17,5 cm pour la LPO, 14 à 16 cm pour oiseaux.net. Retenez qu'il paraît plus trapu que les autres, avec une grosse tête et un bec massif.</p>
+
+<h2>Une poitrine orangée : le rouge-gorge</h2>
+<p>Son plastron orangé est bordé d'un liseré gris bleuté, et le reste du dessous est blanchâtre. Le « ventre rouge » est donc surtout une poitrine. Le mâle et la femelle sont identiques, précise la LPO, été comme hiver. Inutile donc de chercher la différence.</p>
+<p>Ce qui le trahit, c'est son comportement. Il chasse au sol, dans les feuilles mortes, et il défend son coin de jardin presque toute l'année. Un détail utile en été : le jeune rouge-gorge n'a pas encore de plastron orangé, il est brun moucheté de roux. Toute sa fiche est sur notre page consacrée au <a href="{R}rouge-gorge/">rouge-gorge</a>.</p>
+
+<h2>Un rouge rosé et une calotte noire : le bouvreuil pivoine</h2>
+<p>Le mâle est l'un des plus beaux oiseaux du jardin. La LPO et oiseaux.net le décrivent avec le dessous rouge-rose (gorge, poitrine, flancs et haut du ventre), une calotte noire à reflets bleutés, un bec court et massif, un manteau gris, des ailes noires barrées de clair et un croupion blanc bien visible quand il s'envole. Le bas du ventre est blanc.</p>
+<p>La femelle est beaucoup plus discrète : gris-brun, avec la même calotte noire. Ici les sources divergent un peu, la LPO ne lui prête aucun rouge, oiseaux.net parle d'un dessous « beige rosé discret ». Le jeune, lui, n'a pas encore la calotte noire.</p>
+<p>Le bouvreuil est timide. Oiseaux.net note que c'est souvent son cri qui le trahit, un « iuh » plaintif et grave répété à intervalles réguliers. Il se nourrit de graines, de bourgeons au printemps, surtout ceux des fruitiers, et de baies. Ne comptez pas trop le voir à la mangeoire : oiseaux.net le décrit comme peu assidu en hiver. La LPO signale par ailleurs que ses populations sont en déclin.</p>
+<p>Par exemple, si vous voyez au printemps un oiseau rose et noir s'attaquer aux bourgeons de votre cerisier, c'est lui.</p>
+
+<h2>Une poitrine roux-rouille et une tête gris-bleu : le pinson des arbres</h2>
+<p>Le pinson mâle a le dessous roux-rouille, le dos marron, le dessus de la tête et la nuque gris-bleu, et deux barres blanches bien nettes sur l'aile noire, d'après la LPO. Le roux est moins vif que le rouge du bouvreuil, mais à contre-jour, la confusion arrive.</p>
+<p>Le meilleur indice, c'est l'endroit où il mange. La LPO précise qu'il fréquente les mangeoires et picore les graines tombées dessous. Le bouvreuil, lui, reste dans les branches. La femelle de pinson est terne, beige chamois dessous, sans bleu ni roux.</p>
+<p>Au printemps, écoutez son chant : une strophe vive qui commence par quelques notes aiguës répétées, descend, puis finit par une fioriture. Son cri le plus courant est un « pink » bref et fort.</p>
+
+<h2>Du roux mais sur la queue : le rougequeue noir</h2>
+<p>Beaucoup de gens le cherchent en tapant « oiseau ventre rouge », alors qu'il n'a rien de rouge sur le ventre. Le mâle, au printemps, est entièrement noir avec une tache blanche sur l'aile et la <strong>queue rousse</strong>, selon la LPO. Il se tient dressé sur ses pattes, souvent perché sur un point haut près des bâtiments, et capture des insectes au vol. Il niche volontiers sur une poutre, dans un bâtiment, et revient au même endroit d'une année sur l'autre.</p>
+
+<h2>Comment confirmer sans se tromper ?</h2>
+<p>Le plus fiable, c'est de combiner la couleur, l'endroit où se trouve l'oiseau et son cri. Un enregistrement fait avec une application comme Merlin Bird ID ou BirdNET donne une piste rapide, à vérifier dans un guide. Pour bien voir la calotte noire d'un bouvreuil caché dans une haie, des jumelles changent tout : notre comparatif des <a href="{R}meilleures-jumelles-oiseaux/">meilleures jumelles pour observer les oiseaux</a> explique quoi choisir, et notre sélection des <a href="{R}meilleur-guide-oiseaux/">meilleurs guides d'identification</a> vous aide à comparer les espèces.</p>
+<p><strong>Jumelles 8x42</strong> : lumineuses, idéales au jardin. <a href="{AMZ:jumelles 8x42 ornithologie}" """ + A + """>Voir sur Amazon</a></p>
+<p><strong>Guide des oiseaux de France et d'Europe</strong> : <a href="{AMZ:guide ornitho oiseaux de france et d'europe}" """ + A + """>Voir sur Amazon</a></p>
+<p>Si vous voulez photographier vos visiteurs sans rester derrière la fenêtre, une mangeoire équipée d'une caméra fera le travail : voyez notre sélection des <a href="{R}meilleure-mangeoire-connectee/">meilleures mangeoires connectées</a>.</p>
+<p><strong>Mangeoire connectée avec caméra</strong> : <a href="{AMZ:mangeoire connectee camera oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>Comment les attirer au jardin ?</h2>
+<p>Ces quatre oiseaux ne mangent pas la même chose, et c'est le piège : une seule mangeoire suspendue n'en fera venir qu'une partie. Le pinson et le rouge-gorge se nourrissent au sol. Un plateau bas, près d'une haie, leur convient mieux qu'un silo. Le pinson aime les graines, le rouge-gorge les petites graines et les insectes. Notre guide pour <a href="{R}nourrir-les-oiseaux-du-jardin/">bien nourrir les oiseaux du jardin</a> détaille les bons mélanges, et rappelle qu'il ne faut donner ni pain ni lait.</p>
+<p><strong>Plateau de nourrissage au sol</strong> : pour le pinson et le rouge-gorge. <a href="{AMZ:mangeoire plateau sol oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+<p><strong>Graines de tournesol noir</strong> : la graine de base pour les fringilles comme le pinson. <a href="{AMZ:graines de tournesol noir oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+<p>Pour le bouvreuil, misez plutôt sur le jardin lui-même : des arbustes à baies et une haie épaisse, où il trouve graines, bourgeons et un endroit pour nicher. Et pour le rougequeue noir et le rouge-gorge, un nichoir semi-ouvert posé bas convient, d'après la notice de la Ligue royale belge pour la protection des oiseaux. Notre article sur <a href="{R}installer-un-nichoir/">l'installation d'un nichoir</a> explique où le placer.</p>
+<p><strong>Nichoir semi-ouvert</strong> : pour le rouge-gorge et le rougequeue noir. <a href="{AMZ:nichoir semi ouvert rouge-gorge rougequeue}" """ + A + """>Voir sur Amazon</a></p>
+<p><strong>Notre conseil</strong> : avant d'acheter, regardez où vos oiseaux se posent pendant une semaine. S'ils sont tous au sol, un plateau bas sera plus utile qu'une nouvelle mangeoire suspendue.</p>
+""",
+  faq=[("Quel est le petit oiseau à la poitrine rouge dans mon jardin ?",
+        "Le plus souvent un rouge-gorge : petit, rond, plastron orangé bordé de gris, ventre blanchâtre, souvent au sol. Si le rouge est rosé avec une calotte noire, c'est un bouvreuil pivoine mâle ; s'il est roux-rouille avec la tête gris-bleu, un pinson des arbres mâle."),
+       ("Le rouge-gorge femelle a-t-elle aussi la poitrine rouge ?",
+        "Oui. D'après la LPO, le mâle et la femelle adultes ont exactement le même plumage. Seul le jeune n'a pas de plastron orangé : il est brun moucheté de roux."),
+       ("Le rougequeue noir a-t-il le ventre rouge ?",
+        "Non. Le mâle est noir avec une tache blanche sur l'aile, et c'est sa queue qui est rousse, selon la LPO. On le voit souvent perché en hauteur, près des maisons.")],
+  short="Oiseau au ventre rouge", cat="Observer")
+
+AUTO_META['mesange-bleue/'] = ('🐦', 'ciel')
+g("mesange-bleue/",
+  "Mésange bleue : la reconnaître, la nourrir, nichoir de 28 mm",
+  "Mésange bleue : comment la reconnaître, la nourrir et lui offrir un nichoir",
+  "Calotte bleue, ventre jaune, 11 grammes d'acrobatie : reconnaître la mésange bleue, la distinguer de la charbonnière, la nourrir et choisir son nichoir.",
+  """
+<p>La mésange bleue est le seul petit oiseau d'Europe à la fois bleu et jaune, rappelle la LPO : calotte, ailes et queue bleues, joues blanches, ventre jaune. Elle pèse 10 à 12 g pour 11,5 cm, et elle niche dans un nichoir dont le trou d'envol fait <strong>28 mm</strong> environ, plus petit que celui de la charbonnière.</p>
+<p>Au jardin, vous la reconnaîtrez aussi à sa façon de se suspendre la tête en bas au bout des rameaux et autour des mangeoires.</p>
+{CTA}
+
+<h2>Comment la reconnaître, et le mâle de la femelle ?</h2>
+<p>Le portrait est simple d'après la LPO : calotte bleue, ailes et une grande partie de la queue bleues, joues et contour de la tête blancs, une bande noirâtre qui traverse l'œil, dos gris verdâtre et dessous jaune.</p>
+<p>Pour le mâle et la femelle, les sources ne disent pas tout à fait la même chose. La fiche espèce de la LPO les décrit comme quasiment identiques. Un article de la boutique LPO précise que le bandeau sur l'œil est noir chez le mâle et bleu foncé chez la femelle, et la LPO PACA décrit des mâles plus colorés et des femelles plus ternes. En pratique, la différence est subtile : sans comparer deux oiseaux côte à côte, vous aurez du mal à trancher.</p>
+
+<h2>Mésange bleue ou mésange charbonnière ?</h2>
+<p>Ce sont les deux mésanges les plus courantes au jardin, et elles partagent le ventre jaune et le dos verdâtre. Trois détails les séparent tout de suite.</p>
+<table><thead><tr><th>Critère</th><th>Mésange bleue</th><th>Mésange charbonnière</th></tr></thead><tbody>
+<tr><td>Tête</td><td>Calotte bleue, bandeau sombre sur l'œil</td><td>Tête noire, large joue blanche</td></tr>
+<tr><td>Poitrine</td><td>Jaune, sans large bande</td><td>Jaune barrée d'un épais trait noir</td></tr>
+<tr><td>Taille et poids (LPO)</td><td>11,5 cm, 10 à 12 g</td><td>Un peu plus grande</td></tr>
+<tr><td>Trou d'envol du nichoir</td><td>26 à 28 mm</td><td>32 mm</td></tr>
+<tr><td>Espacement entre deux nichoirs (LPO)</td><td>15 à 20 m</td><td>40 à 50 m</td></tr>
+</tbody></table>
+<p>Pour tout savoir sur sa grande cousine, voyez notre fiche de la <a href="{R}mesange-charbonniere/">mésange charbonnière</a>.</p>
+
+<h2>Où et quand la voir ?</h2>
+<p>Toute l'année, presque partout. La LPO la trouve dans tous les habitats des régions de feuillus, bois comme jardins, sur tout le territoire. La boutique LPO rappelle qu'elle est d'origine forestière mais qu'elle fréquente aujourd'hui les jardins, les parcs, les vergers et même la ville.</p>
+<p>Sur ses déplacements, les sources nuancent : la fiche LPO la dit sédentaire, la LPO PACA majoritairement sédentaire avec de grands mouvements certaines années. En hiver, elle se joint aux « rondes » de mésanges qui parcourent les jardins, ce qui explique les arrivées soudaines à la mangeoire.</p>
+<p>Son cri est un « tsi-tsi » aigu, et son chant le prolonge en « tsi-tsi-tsou hou-hou-hou », selon la LPO.</p>
+
+<h2>Que mange-t-elle, et que lui donner ?</h2>
+<p>Au printemps et en été, des insectes : chenilles surtout, mais aussi pucerons, petits coléoptères, araignées. Ce sont aussi les chenilles qui nourrissent ses oisillons.</p>
+<p>En hiver, elle devient granivore et mange aussi des baies. À la mangeoire, la LPO cite le tournesol noir, les cacahuètes, les noix et noisettes, les fruits et les pains de graisse. Comme elle vient rarement au sol, une mangeoire suspendue lui convient mieux qu'un plateau. Par exemple, une mangeoire silo à tournesol accrochée à une branche fine, avec une boule de graisse sans filet à côté, et vous la verrez faire ses acrobaties toute la journée.</p>
+<p>Comme pour toutes les mésanges : graisse <strong>sans filet</strong>, cacahuètes non salées et non grillées, pas de pain ni de lait. Notre guide pour <a href="{R}nourrir-les-oiseaux-du-jardin/">bien nourrir les oiseaux du jardin</a> détaille tout cela.</p>
+<p><strong>Graines de tournesol noir</strong> : la base pour les mésanges. <a href="{AMZ:graines de tournesol noir oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+<p><strong>Boules de graisse sans filet</strong> : <a href="{AMZ:boules de graisse sans filet oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+<p><strong>Mangeoire silo en métal</strong> : <a href="{AMZ:mangeoire silo metal oiseaux tournesol}" """ + A + """>Voir sur Amazon</a></p>
+<p>Pour choisir les produits, voyez nos comparatifs des <a href="{R}meilleure-graine-tournesol/">meilleures graines de tournesol</a> et des <a href="{R}meilleure-boule-de-graisse/">meilleures boules de graisse sans filet</a>. Et si vous cherchez un cadeau pour un parent qui sort peu, une mangeoire posée bien en vue de sa fenêtre en est un très beau : notre site Vieillir chez soi propose d'autres <a href="https://viellirchezsoi.fr/cadeau-personne-agee/">idées de cadeau pour une personne âgée</a>.</p>
+
+<h2>Quel nichoir pour la mésange bleue ?</h2>
+<p>Elle niche dans une cavité : trou d'arbre, trou de mur, nichoir, et même parfois une boîte aux lettres. Le chiffre clé est le diamètre du trou d'envol. La fiche espèce de la LPO donne <strong>28 mm</strong>, le tutoriel nichoirs des Refuges LPO 26 à 28 mm, et un article de la boutique LPO 26 à 30 mm. Un trou de 28 mm convient donc dans tous les cas, et il a un gros avantage : la charbonnière, plus grosse, ne peut pas y entrer et lui prendre la place.</p>
+<table><thead><tr><th>Mesure</th><th>Tutoriel nichoirs Refuges LPO</th></tr></thead><tbody>
+<tr><td>Trou d'envol</td><td>26 à 28 mm</td></tr>
+<tr><td>Fond intérieur</td><td>13 x 13 cm</td></tr>
+<tr><td>Hauteur intérieure</td><td>23 cm</td></tr>
+<tr><td>Du trou d'envol au fond</td><td>17 cm</td></tr>
+<tr><td>Hauteur de pose</td><td>2 à 5 m</td></tr>
+<tr><td>Entre deux nichoirs identiques</td><td>15 à 20 m</td></tr>
+</tbody></table>
+<p>Le même tutoriel conseille d'orienter le trou vers l'est ou le sud-est, jamais face aux vents dominants, de pencher légèrement le nichoir vers l'avant et de le laisser en partie à l'ombre aux heures chaudes. Fixez-le sur un mur ou un tronc, jamais en bout de branche, et sans perchoir sous le trou. Une plaque métallique autour de l'entrée évite que les pics, les lérots ou les écureuils l'agrandissent.</p>
+<p><strong>Notre conseil</strong> : posez-le dès l'automne. Les mésanges commencent à visiter les nichoirs dès janvier, selon les Refuges LPO. Un nichoir installé en avril a beaucoup moins de chances d'être occupé. Notre guide pour <a href="{R}installer-un-nichoir/">installer un nichoir</a> explique la fixation pas à pas.</p>
+<p><strong>Nichoir à mésange trou de 28 mm</strong> : en bois épais ou en béton de bois. <a href="{AMZ:nichoir mesange bleue 28 mm}" """ + A + """>Voir sur Amazon</a></p>
+<p>La ponte compte beaucoup d'œufs, et les sources ne s'accordent pas sur le nombre : 6 à 15 pour la fiche LPO, 7 à 12 pour la boutique LPO, 6 à 12 pour la LPO PACA. Les jeunes quittent le nid vers 18 à 20 jours. Avec une telle nichée, un nichoir équipé d'une caméra offre un spectacle rare, sans jamais ouvrir le toit. Installez-le et réglez l'image avant la saison des nids. Nous avons comparé les modèles dans notre sélection des <a href="{R}meilleur-nichoir-camera/">meilleurs nichoirs avec caméra</a> ; vérifiez qu'un réducteur de 28 mm est fourni ou possible.</p>
+<p><strong>Nichoir avec caméra wifi</strong> : <a href="{AMZ:nichoir camera wifi oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+<p>Videz-le après la saison, fin septembre ou début octobre. La mésange bleue est intégralement protégée en France (arrêté ministériel du 29 octobre 2009), rappelle la LPO : on ne touche ni au nid ni aux oiseaux.</p>
+""",
+  faq=[("Quel diamètre de trou pour un nichoir à mésange bleue ?",
+        "28 mm selon la fiche espèce de la LPO, 26 à 28 mm selon le tutoriel nichoirs des Refuges LPO. Un trou de 28 mm empêche la mésange charbonnière, plus grosse, d'y entrer."),
+       ("Comment différencier la mésange bleue de la mésange charbonnière ?",
+        "La bleue a une calotte bleue et un bandeau sombre sur l'œil, sans large bande noire sur la poitrine. La charbonnière a la tête noire, de grandes joues blanches et un épais trait noir au milieu du ventre jaune. Elle est aussi un peu plus grande."),
+       ("Que donner à manger à une mésange bleue en hiver ?",
+        "Du tournesol noir, des cacahuètes non salées, des noix, des noisettes et de la graisse sans filet, de préférence dans une mangeoire suspendue. Évitez le pain et le lait.")],
+  short="Mésange bleue", cat="Observer")
+
+AUTO_META['meilleur-abreuvoir-oiseaux/'] = ('🏆', 'ciel')
+g("meilleur-abreuvoir-oiseaux/",
+  "Abreuvoir pour oiseaux 2026 : top 10 bains, vasques et dégivreur",
+  "Les meilleurs abreuvoirs et bains d'oiseaux pour le jardin : 10 modèles comparés",
+  "Vasque au sol, bain sur pied, abreuvoir suspendu ou mural, fontaine solaire, dégivreur : 10 abreuvoirs pour oiseaux comparés d'après les fiches des vendeurs.",
+  """
+<p>Le meilleur abreuvoir pour oiseaux est large, peu profond, facile à vider et à frotter. Pour la plupart des jardins, une <strong>vasque basse avec des marches intégrées</strong>, comme celles d'Esschert Design ou de la boutique LPO, fait parfaitement l'affaire. Les modèles sur pied, suspendus ou solaires ont leur intérêt, mais surtout pour des raisons de place, de chats ou de décoration.</p>
+<p>Rappel de base, valable pour tous les modèles : de l'eau claire et rien d'autre. Ni sel, ni antigel, ni alcool, insistent la LPO et la Ligue royale belge pour la protection des oiseaux. Nous l'expliquons dans notre article sur <a href="{R}eau-pour-les-oiseaux-en-hiver/">l'eau pour les oiseaux en hiver</a>.</p>
+{CTA}
+<div class="note"><strong>Comment nous avons fait cette sélection</strong> : à partir des fiches publiées par les fabricants et les revendeurs, sans test en main.</div>
+
+<h2>Le tableau récapitulatif</h2>
+<table><thead><tr><th>Produit</th><th>Type</th><th>Matériau</th><th>Dimensions annoncées</th></tr></thead><tbody>
+<tr><td>Esschert Design abreuvoir en béton FB297</td><td>Vasque à poser</td><td>Béton</td><td>Ø 29,3 cm, H 10,5 cm</td></tr>
+<tr><td>LPO abreuvoir d'été céramique</td><td>Vasque à poser</td><td>Céramique</td><td>Ø 28,8 cm, H 5,5 cm</td></tr>
+<tr><td>Vierno Tajine</td><td>Suspendu</td><td>Céramique</td><td>Ø 19 cm, H 10 cm</td></tr>
+<tr><td>Esschert Design bain en fonte sur pied FB91</td><td>Sur pied</td><td>Fonte</td><td>Vasque Ø 27,2 cm, H 60 cm</td></tr>
+<tr><td>CJ Wildlife bain pour oiseaux Silbersee (Vivara)</td><td>Sur pied</td><td>Plastique recyclé</td><td>50 x 50 cm, H 70 cm</td></tr>
+<tr><td>Smart Garden fontaine solaire Pagode</td><td>Fontaine solaire au sol</td><td>Polyrésine</td><td>Ø 47 cm, H 72 cm</td></tr>
+<tr><td>LPO abreuvoir mural CAPI</td><td>Mural</td><td>Plastique recyclé</td><td>23 x 20 x 19 cm, 57,7 cl</td></tr>
+<tr><td>Relaxdays abreuvoir coquillage</td><td>Petit bain sur pied</td><td>Fonte</td><td>Soucoupe Ø 18 cm, H 24,5 cm</td></tr>
+<tr><td>LPO bain d'oiseau à suspendre</td><td>Suspendu</td><td>Fonte et métal</td><td>19,7 x 14 cm</td></tr>
+<tr><td>ALOVEZ dégivreur pour bain d'oiseaux</td><td>Accessoire chauffant</td><td>Base aluminium</td><td>25 x 15 x 8 cm, 15 W</td></tr>
+</tbody></table>
+<p>La profondeur de la vasque est rarement indiquée par les vendeurs. C'est pourtant le critère qui compte le plus : les fiches que nous citons dans notre article sur l'eau parlent de 3 à 4 cm pour les petites espèces. Si une vasque est plus creuse, posez un gros caillou au centre, comme le suggère la Ligue belge.</p>
+
+<h2>1. Esschert Design abreuvoir en béton FB297 : notre choix pour la plupart des jardins</h2>
+<p><strong>Pour qui ?</strong> Vous voulez une vasque stable, à poser au sol ou sur un muret, qui ne bouge pas quand un merle s'y ébroue.</p>
+<p>D'après la fiche de ManoMano, cette vasque en béton mesure 29,3 cm de diamètre pour 10,5 cm de haut et pèse environ 4 kg. Des marches sont intégrées pour que les oiseaux entrent et sortent sans danger. Elle est vendue sur Amazon.fr.</p>
+<ul>
+<li><strong>Points forts</strong> : lourde donc stable, marches pour les petits oiseaux, large surface.</li>
+<li><strong>Limites</strong> : profondeur non précisée. La fiche se contredit sur le poids (4 kg, 5 kg ou 5,7 kg selon les lignes) et sur la couleur. Posée au sol, elle est à portée des chats : dégagez bien les abords.</li>
+</ul>
+<p>Pourquoi en premier ? Parce qu'elle coche ce que demandent les associations : large, basse, avec des bords praticables, et facile à frotter.</p>
+<p><a href="{AMZ:Esschert Design bain oiseaux beton FB297}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>2. LPO abreuvoir d'été en céramique : le plus simple pour les beaux jours</h2>
+<p><strong>Pour qui ?</strong> Un abreuvoir léger pour le printemps et l'été, à poser au sol ou sur une table.</p>
+<p>La boutique LPO décrit une vasque en céramique grise de 28,8 cm de diamètre et 5,5 cm de haut, avec une partie centrale surélevée qui sert de perchoir et des marches intégrées. Elle est fabriquée au Portugal et pèse 1,1 kg environ.</p>
+<ul>
+<li><strong>Points forts</strong> : très basse, perchoir central, vendue par une association de protection des oiseaux.</li>
+<li><strong>Limites</strong> : la LPO conseille de la rentrer ou de la vider avant le gel. Ce n'est donc pas un abreuvoir d'hiver. Vendue surtout sur la boutique LPO.</li>
+</ul>
+<p><a href="{AMZ:abreuvoir oiseaux ceramique a poser}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>3. Vierno Tajine : l'abreuvoir suspendu hors de portée des chats</h2>
+<p><strong>Pour qui ?</strong> Un jardin fréquenté par des chats, ou un balcon sans place au sol.</p>
+<p>La boutique LPO présente ce bain en céramique de 19 cm de diamètre et 10 cm de haut, à suspendre. Placé en hauteur, il limite l'accès des prédateurs. Il est vendu sur Amazon.fr sous le nom Vierno Tajine. Vivara propose une autre version suspendue de la marque, l'abreuvoir Vierno de 26,7 cm, avec chaîne fournie, à suspendre à au moins 1 m du sol.</p>
+<ul>
+<li><strong>Points forts</strong> : hors de portée des chats, joli objet, poids léger (0,58 kg).</li>
+<li><strong>Limites</strong> : 19 cm, c'est petit, plutôt pour les mésanges et les petits passereaux que pour les merles. Un bain suspendu se balance et se vide plus vite.</li>
+</ul>
+<p><a href="{AMZ:Vierno Tajine bain oiseaux suspendu}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>4. Esschert Design bain d'oiseaux en fonte sur pied FB91 : le classique décoratif</h2>
+<p><strong>Pour qui ?</strong> Vous voulez un bain sur pied qui dure et qui décore le massif.</p>
+<p>Selon ManoMano, ce bain en fonte marron a une vasque de 27,2 cm et une hauteur de 60 cm. L'intérieur de la vasque est nervuré pour ne pas glisser, quatre petits oiseaux décoratifs ornent le bord, et le fabricant précise qu'il peut aussi servir de plateau à graines.</p>
+<ul>
+<li><strong>Points forts</strong> : fonte durable, fond antidérapant, hauteur qui met l'eau à l'abri des chats en embuscade au sol.</li>
+<li><strong>Limites</strong> : vasque assez petite. Le poids est indiqué de façon contradictoire. Une fiche Esschert Design en fonte existe sur Amazon.fr, mais nous n'avons pas pu vérifier qu'il s'agit exactement de ce modèle.</li>
+</ul>
+<p><a href="{AMZ:Esschert Design bain oiseaux fonte sur pied}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>5. CJ Wildlife Silbersee (Vivara) : le grand bain sur pied, léger et recyclé</h2>
+<p><strong>Pour qui ?</strong> Vous voulez une grande surface d'eau en hauteur, facile à déplacer.</p>
+<p>Vivara annonce un bain sur pied en plastique 100 % recyclé, de 50 x 50 cm pour 70 cm de haut, qui pèse moins de 2 kg. Il sert à boire et à se baigner, est garanti 2 ans, et Vivara conseille de le placer à l'ombre.</p>
+<ul>
+<li><strong>Points forts</strong> : grande taille, matériau recyclé, se déplace d'une main pour le nettoyer.</li>
+<li><strong>Limites</strong> : léger, donc moins stable qu'un modèle en fonte ou en béton par grand vent. Diamètre et profondeur de la vasque non précisés. Vendu chez Vivara, pas trouvé sur Amazon.fr.</li>
+</ul>
+<p><a href="{AMZ:bain oiseaux sur pied grand jardin}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>6. Smart Garden fontaine solaire Pagode : l'eau qui bouge</h2>
+<p><strong>Pour qui ?</strong> Vous voulez un bain d'oiseaux qui fasse aussi fontaine, sans brancher de câble.</p>
+<p>D'après ManoMano, cette fontaine en polyrésine aspect pierre mesure 47 cm de diamètre et 72 cm de haut, pour environ 10 kg. Sa pompe immergée est alimentée par un panneau solaire de 1,1 W, sans batterie : elle ne tourne qu'au soleil. L'eau sort par quatre jets.</p>
+<ul>
+<li><strong>Points forts</strong> : pas d'électricité à tirer, effet décoratif, l'eau en mouvement se remarque de loin.</li>
+<li><strong>Limites</strong> : sans batterie, elle s'arrête dès que le soleil se cache. Une pompe demande plus d'entretien qu'une simple vasque, et la profondeur n'est pas précisée. Ce modèle précis n'a pas été trouvé sur Amazon.fr, où d'autres fontaines de la marque sont vendues.</li>
+</ul>
+<p><a href="{AMZ:fontaine solaire bain oiseaux jardin}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>7. LPO abreuvoir mural CAPI : pour une terrasse ou un balcon</h2>
+<p><strong>Pour qui ?</strong> Peu de place au sol, un mur ou une rambarde à disposition.</p>
+<p>La boutique LPO décrit un abreuvoir à fixer au mur, en plastique recyclé à 98 %, de 23 x 20 x 19 cm pour 57,7 cl d'eau, résistant aux UV et au gel, fabriqué en Belgique. La fiche rappelle de ne jamais ajouter de sel ni de sucre et, par temps de gel, de remplir dans la journée puis de vider le soir. La même boutique vend un abreuvoir à piquer dans une jardinière, de 19,5 cm de diamètre et 3 cm de profondeur, fabriqué en France.</p>
+<ul>
+<li><strong>Points forts</strong> : prend très peu de place, hors de portée des chats si bien placé, consignes d'usage claires.</li>
+<li><strong>Limites</strong> : petite contenance, à remplir souvent en été. Vendu surtout sur la boutique LPO.</li>
+</ul>
+<p><a href="{AMZ:abreuvoir mural oiseaux}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>8. Relaxdays abreuvoir coquillage en fonte : le petit format</h2>
+<p><strong>Pour qui ?</strong> Un petit balcon, une table de terrasse, un budget serré.</p>
+<p>ManoMano décrit un petit bain sur pied en fonte de 24,5 cm de haut, avec une soucoupe de 18 cm de diamètre et 3 cm de haut. Il résiste aux intempéries et au gel d'après le vendeur, qui conseille de le placer à environ 3 m des buissons à cause des chats et de laver la soucoupe à l'eau chaude une fois par semaine, sans détergent. Il est vendu sur Amazon.fr.</p>
+<ul>
+<li><strong>Points forts</strong> : peu profond, consignes d'entretien précises, facile à trouver.</li>
+<li><strong>Limites</strong> : soucoupe de 18 cm, trop petite pour qu'un merle s'y baigne. C'est un abreuvoir d'appoint, pas un bain.</li>
+</ul>
+<p><a href="{AMZ:Relaxdays abreuvoir oiseaux fonte coquillage}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>9. LPO bain d'oiseau à suspendre : le petit bain en fonte</h2>
+<p><strong>Pour qui ?</strong> Une branche solide près de la fenêtre, pour voir les oiseaux boire de près.</p>
+<p>La boutique LPO présente un plateau ovale en fonte de 19,7 x 14 cm, suspendu par une chaîne et un crochet (environ 30 cm de haut au total), orné de deux petits oiseaux. Consigne de la fiche : changer l'eau très régulièrement.</p>
+<ul>
+<li><strong>Points forts</strong> : se suspend facilement, matériau durable.</li>
+<li><strong>Limites</strong> : indiqué indisponible chez le fournisseur lors de notre consultation. Petite surface, comme tous les bains suspendus.</li>
+</ul>
+<p><a href="{AMZ:bain oiseaux fonte a suspendre}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>10. ALOVEZ dégivreur pour bain d'oiseaux : contre le gel</h2>
+<p><strong>Pour qui ?</strong> Vous avez déjà un bain d'oiseaux et vous vivez dans une région où il gèle souvent.</p>
+<p>Ce n'est pas un bain mais un petit appareil à poser dedans. D'après ManoMano, il a une base en aluminium de 25 x 15 cm, une puissance de 15 W sur secteur, et un thermostat qui le déclenche sous 10 °C. Nous n'avons pas trouvé de vrai bain d'oiseaux chauffant complet chez un grand revendeur français : ce type de dégivreur est ce qu'on trouve le plus, y compris sous d'autres marques sur Amazon.fr.</p>
+<ul>
+<li><strong>Points forts</strong> : garde un point d'eau liquide quand tout est gelé, thermostat intégré.</li>
+<li><strong>Limites</strong> : il faut une prise extérieure protégée. Tension et longueur du câble non précisées. La fiche LPO sur l'eau en hiver donne deux précautions pour tout appareil chauffant : ne le brancher que dans la journée et vérifier que la résistance reste toujours sous l'eau.</li>
+</ul>
+<p><a href="{AMZ:degivreur bain oiseaux thermostat}" """ + A + """>Voir sur Amazon</a></p>
+
+<h2>Comment choisir son abreuvoir ?</h2>
+<p><strong>Peu profond et large.</strong> C'est le seul critère sur lequel toutes les associations insistent. Une vasque de 25 à 30 cm laisse de la place à plusieurs oiseaux à la fois. Des bords en pente douce, des marches ou un caillou au centre évitent les noyades.</p>
+<p><strong>Choisissez la hauteur selon vos chats.</strong> Au sol, un abreuvoir doit être dans un endroit dégagé, pour qu'aucun chat ne puisse se cacher tout près. S'il y a des chats dans le voisinage, un modèle sur pied ou suspendu est plus sûr. Notre guide pour <a href="{R}nourrir-les-oiseaux-du-jardin/">bien nourrir les oiseaux du jardin</a> donne les mêmes conseils de placement pour les mangeoires.</p>
+<p><strong>Pensez au nettoyage avant d'acheter.</strong> L'eau doit être changée souvent : de trois fois par semaine à tous les jours selon les associations, et le plus prudent est chaque jour. Un modèle lourd et fixe est stable, mais une vasque légère se vide et se frotte plus facilement. Par exemple, si votre abreuvoir est à l'autre bout du jardin, vous le négligerez : mettez-le là où vous passez tous les jours.</p>
+<p><strong>Et l'hiver ?</strong> Certains modèles ne sont pas faits pour le gel, comme l'abreuvoir en céramique de la LPO qu'il faut rentrer : lisez la fiche. Avant d'envisager un dégivreur, essayez les gestes simples détaillés dans notre article sur <a href="{R}eau-pour-les-oiseaux-en-hiver/">l'eau en hiver</a>, comme renouveler l'eau plusieurs fois dans la journée.</p>
+<p><strong>Notre conseil</strong> : une vasque basse et lourde au sol dans un coin dégagé, plus un petit abreuvoir suspendu près de la mangeoire. Vous couvrez ainsi les oiseaux qui boivent au sol, comme le merle, et ceux qui restent en hauteur, comme les mésanges.</p>
+
+<h2>Quels oiseaux viendront boire ?</h2>
+<p>Presque tous. Le merle adore se baigner dans une vasque large : notre page sur l'<a href="{R}oiseau-noir-bec-jaune/">oiseau noir au bec jaune</a> vous aide à le reconnaître. Le <a href="{R}rouge-gorge/">rouge-gorge</a> vient volontiers boire au sol, et les mésanges, comme la <a href="{R}mesange-charbonniere/">mésange charbonnière</a>, préfèrent souvent un abreuvoir en hauteur. Pour compléter le point d'eau, voyez notre sélection des <a href="{R}meilleure-mangeoire-oiseaux/">meilleures mangeoires pour oiseaux</a>.</p>
+""",
+  faq=[("Quelle profondeur pour un abreuvoir à oiseaux ?",
+        "Peu profond : les fiches des associations que nous citons parlent de 3 à 4 cm pour les petites espèces. Si votre vasque est plus creuse, posez un gros caillou ou une branche au centre pour que les oiseaux aient pied."),
+       ("Peut-on mettre du sel ou de l'antigel pour éviter le gel ?",
+        "Non, jamais. La LPO et la Ligue royale belge pour la protection des oiseaux sont formelles : sel, antigel et alcool sont dangereux voire mortels. Changez l'eau plusieurs fois par jour par grand froid, ou utilisez un dégivreur prévu pour les bains d'oiseaux, branché seulement dans la journée."),
+       ("Avez-vous testé ces abreuvoirs ?",
+        "Non. Cette sélection repose sur les fiches publiées par les fabricants et les revendeurs. Quand une donnée manque, comme la profondeur, nous l'indiquons comme non précisée.")],
+  short="Top 10 abreuvoirs", cat="Nourrir")
